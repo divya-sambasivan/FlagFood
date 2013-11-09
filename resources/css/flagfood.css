@@ -1,0 +1,7 @@
+.exitPanel{
+            backgroundImage: 'url("https://backendless.com/console/appversion/'+ APPLICATION_ID.toLowerCase() + '/files/download/media/background.jpg")',
+            backgroundRepeat: 'no-repeat',
+            backgroundPosition: 'center',
+			backgroundSize: 'cover',
+			background: 'red'
+}
